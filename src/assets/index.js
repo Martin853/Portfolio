@@ -25,8 +25,8 @@ import blog from "./projects/blog.png";
 import flixnet from "./projects/flixnet.jpg";
 import hoobank from "./projects/hoobank.jpg";
 
-import fiverr from "./company/fiverr";
-import upwork from "./company/upwork";
+import fiverr from "./company/fiverr.png";
+import upwork from "./company/upwork.png";
 
 export {
   backend,
